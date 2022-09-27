@@ -1,6 +1,6 @@
 - 👋 I'm a Software Enginnering student
 - 👀 I’m interested in Web evelopment & AI
-- 🌱 Learning: Web Development & Artificial Intelligence
+- 🌱 Learning: Web Development
 
 <!---
 Shirhabeel/Shirhabeel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
