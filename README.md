@@ -4,12 +4,12 @@ Greetings folks! 👋 My name is Shirhabeel Awan
 Software Engineer
 --------------------------------------
 
-* 🌍  I'm based in Bahawalpur, PK
+* 🌍  I'm based in Lahore, PK
 * ✉️  You can contact me at [shirhabeel5185@gmail.com](mailto:shirhabeel5185@gmail.com)
-* 🧠  I'm learning MERN
+* 🧠  I'm a MERN stack developer
 * 🤝  I'm open to collaborating on interesting projects
 
-Coding and designing for over 1 year, I'm a passionate tech enthusiast striving to make a significant impact in the industry. I am dedicated to promoting technology and empowering students to become future leaders in the tech industry.
+Coding and designing for over 2 years, I'm a passionate tech enthusiast striving to impact the industry significantly. I am dedicated to promoting technology and empowering students to become future leaders in the tech industry.
 
 
 <p align="center">
