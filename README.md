@@ -6,7 +6,8 @@ Software Engineer
 
 * 🌍  I'm based in Lahore, PK
 * ✉️  You can contact me at [shirhabeel5185@gmail.com](mailto:shirhabeel5185@gmail.com)
-* 🧠  I'm a MERN stack developer
+* 🧠  I'm a Flutter developer
+* 🧠  I'm a React developer
 * 🤝  I'm open to collaborating on interesting projects
 
 Coding and designing for over 2 years, I'm a passionate tech enthusiast striving to impact the industry significantly. I am dedicated to promoting technology and empowering students to become future leaders in the tech industry.
