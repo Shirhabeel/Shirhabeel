@@ -32,7 +32,7 @@ My academic and personal interests revolve around building scalable, efficient s
 Although I am currently focused on cloud technologies, I have prior experience in:
 - **Frontend Development:** React, JavaScript, HTML5, CSS3, Bootstrap  
 - **Mobile Development:** Flutter, Dart  
-- **Backend & Database:** PHP, MySQL  
+- **Backend & Database:** SQL, Node.js, MongoDB
 - **Version Control & Tools:** Git, GitHub, VS Code, Android Studio
 
 ---
