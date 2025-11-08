@@ -1,17 +1,25 @@
-Greetings folks! 👋 My name is Shirhabeel Awan
-=======================================
+# 👋 Greetings!
 
-Software Engineer
---------------------------------------
+### I'm **Shirhabeel Awan**
+**MSc Software Engineering Student | Aspiring Cloud & Software Engineer**
 
-* 🌍  I'm based in Lahore, PK
-* ✉️  You can contact me at [shirhabeel5185@gmail.com](mailto:shirhabeel5185@gmail.com)
-* 🧠  I'm a Flutter developer
-* 🧠  I'm a React developer
-* 🤝  I'm open to collaborating on interesting projects
+---
 
-Coding and designing for over 2 years, I'm a passionate tech enthusiast striving to impact the industry significantly. I am dedicated to promoting technology and empowering students to become future leaders in the tech industry.
+📍 **Location:** Stoke-on-Trent, England, United Kingdom  
+🎓 **Institution:** Staffordshire University  
+✉️ **Email:** [shirhabeel5185@gmail.com](mailto:shirhabeel5185@gmail.com)  
+🔗 **LinkedIn:** [in/shirhabeel-awan](https://linkedin.com/in/shirhabeel-awan)  
+🐦 **Twitter:** [@awan_shirhabeel](https://twitter.com/awan_shirhabeel)
 
+---
+
+## 👨‍💻 About Me
+I’m a postgraduate student pursuing a **Master’s in Software Engineering** at **Staffordshire University**, England.  
+With a foundation in **web and mobile app development**, I’m now expanding my skills towards **cloud computing** and **AWS** technologies.  
+
+My academic and personal interests revolve around building scalable, efficient systems and understanding the engineering principles behind modern software infrastructure. I’m committed to continuous learning and technical growth to prepare for future opportunities in the software and cloud domain.
+
+---
 
 <p align="center">
 <a href="https://www.github.com/shirhabeel" target="_blank" rel="noreferrer"><img
