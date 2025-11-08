@@ -37,6 +37,20 @@ Although I am currently focused on cloud technologies, I have prior experience i
 
 ---
 
+## 🧩 Software Engineering Practices
+As part of my postgraduate coursework and team projects, I actively apply **software engineering principles** across the development lifecycle. This includes:
+
+- **Project Planning & Management:** Using tools like Trello for task organization, sprint planning, and progress tracking within agile workflows.  
+- **Requirements Analysis & Documentation:** Engaging in discussions to define system requirements and document user stories, use cases, and functional specifications.  
+- **Team Collaboration & Communication:** Coordinating with teammates and stakeholders to align goals, define contracts, and ensure clear communication throughout project phases.  
+- **Cost & Effort Estimation:** Learning and practicing methods for project cost estimation, risk assessment, and resource allocation.  
+- **Change & Version Control:** Implementing structured **change management** and **version control** processes through Git and GitHub.  
+- **Software Quality & Testing:** Focusing on maintainable, testable code and applying peer reviews and validation strategies to ensure software reliability.  
+
+These experiences are helping me strengthen both my **technical** and **professional** skills as a software engineer.
+
+---
+
 ## 🎯 Goals
 - Gain hands-on experience with **AWS cloud platforms**  
 - Work on small-scale projects integrating **web, mobile, and cloud technologies**  
