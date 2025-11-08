@@ -21,6 +21,87 @@ My academic and personal interests revolve around building scalable, efficient s
 
 ---
 
+## 🧠 Current Focus
+- Learning **Cloud Fundamentals** and **AWS Services**  
+- Strengthening core knowledge in **Software Engineering principles**  
+- Exploring modern development practices and deployment strategies  
+
+---
+
+## 💻 Technical Background
+Although I am currently focused on cloud technologies, I have prior experience in:
+- **Frontend Development:** React, JavaScript, HTML5, CSS3, Bootstrap  
+- **Mobile Development:** Flutter, Dart  
+- **Backend & Database:** PHP, MySQL  
+- **Version Control & Tools:** Git, GitHub, VS Code, PyCharm, WebStorm  
+
+---
+
+## 🎯 Goals
+- Gain hands-on experience with **AWS cloud platforms**  
+- Work on small-scale projects integrating **web, mobile, and cloud technologies**  
+- Contribute to open-source and collaborative learning environments  
+
+---
+
+## 📫 Get in Touch
+I’m always open to meaningful discussions around software design, development, and cloud technologies.  
+Feel free to reach out via [email](mailto:shirhabeel5185@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/shirhabeel-awan).
+
+---
+
+### _“Continuous learning and curiosity are the foundation of engineering excellence.”_
+
+<p align="center">
+  <a href="https://github.com/shirhabeel" target="_blank">
+    <img src="https://img.shields.io/github/followers/shirhabeel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
+  <a href="https://twitter.com/awan_shirhabeel" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/awan_shirhabeel?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/shirhabeel/count.svg" />
+</p>
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shirhabeel&show_icons=true&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirhabeel&theme=radical&hide_border=true" height="160px"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/shirhabeel-awan/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://twitter.com/awan_shirhabeel" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://github.com/shirhabeel" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+</p>
+
+---
+
+> “Continuous learning and curiosity are the foundation of engineering excellence.”
+
+
+
+
 <p align="center">
 <a href="https://www.github.com/shirhabeel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shirhabeel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://twitter.com/awan_shirhabeel" target="_blank" rel="noreferrer"><img
