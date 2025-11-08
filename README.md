@@ -1,7 +1,4 @@
 <!-- 🖼️ HEADER BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/6fZb8rF.png" alt="Shirhabeel Awan Banner" width="100%" />
-</p>
 
 <h1 align="center">👋 Greetings! I'm Shirhabeel Awan</h1>
 <h3 align="center">MSc Software Engineering Student | Aspiring Cloud & Software Engineer</h3>
