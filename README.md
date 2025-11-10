@@ -1,7 +1,8 @@
 <!-- 🖼️ HEADER BANNER -->
 
 <h1 align="center">👋 Greetings! I'm Shirhabeel Awan</h1>
-<h3 align="center">MSc Software Engineering Student | Aspiring Cloud & Software Engineer</h3>
+<h3 align="center">
+Software Engineering Graduate | Blending Code, Cloud & Creativity to Build Seamless Digital Experiences</h3>
 
 ---
 
